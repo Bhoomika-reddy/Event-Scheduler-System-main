@@ -40,4 +40,4 @@ PUT /events/{id} – update an existing event
 
 DELETE /events/{id} – delete an event
 
-GitHub repository URL - https://github.com/bhoomika-reddy/Event-Scheduler-System.git
+GitHub repository URL - https://github.com/Bhoomika-reddy/Event-Scheduler-System.git
